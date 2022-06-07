@@ -45,7 +45,7 @@ def bul(client, message):
 
     except Exception as e:
         m.edit(
-            "❌ Hiçbir şey bulamadım. Pardon.\n\nBaşka bir anahtar kelime deneyin veya belki düzgün hecele."
+            "🙄Üzgünüm. Hiçbir şey bulamadım. \n\nBaşka bir anahtar kelime deneyin yada anlaşılır şekilde yazın."
         )
         print(str(e))
         return
