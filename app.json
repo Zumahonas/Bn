@@ -8,33 +8,42 @@
     "SESSION_NAME": {
       "description": "Pyrogram oturum dizesi (Replit.com)",
       "required": true
+      "value" : "" 
+      
     },
     "BOT_TOKEN": {
       "description": "Bir bot belirteci @botfather ile alınız",
       "required": true
+      "value" : "5392177713:AAF1QLcRLhO8HzGNmFKPz_PEFsPN25OUrU8" 
+      
     },
     "BOT_NAME": {
       "description": "Müzik Oynatıcı Bot Adınız.",
       "required": false,
-      "value": ""
+      "value": "RAPİD MUSİC"
     },
     "BOT_USARNAME": {
       "description": "Müzik Oynatıcı Bot Kullanıcı İsmi @ olmadan yazınız.",
       "required": true,
-      "value": ""
+      "value": "RapidMusicBot"
      
     },
     "API_ID": {
       "description": "my.telegram'dan uygulama kimliği.org/apps",
       "required": true
+      "value" : "17669808" 
+      
     },
     "API_HASH": {
       "description": "My.telegram'dan uygulama apı-hash.org/apps",
       "required": true
+      "value" : "8b8f958e55f3a7120dc3b2cf6032dca7" 
+      
     },
     "SUDO_USERS": {
       "description": "Her yerde yönetici olarak sayılan kullanıcı kimliklerinin listesi (Müzik hesabınının id'si).",
       "required": true
+      "value" : "5115012771" 
     },
     "DURATION_LIMIT": {
       "description": "İndirmeler için en fazla ses süresi sınırı (minutes).",
