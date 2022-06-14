@@ -8,19 +8,18 @@
     "SESSION_NAME": {
       "description": "Pyrogram oturum dizesi (Replit.com)",
       "required": true
-      "value" : "" 
       
     },
     "BOT_TOKEN": {
       "description": "Bir bot belirteci @botfather ile alınız",
       "required": true
-      "value" : "" 
       
     },
     "BOT_NAME": {
       "description": "Müzik Oynatıcı Bot Adınız.",
       "required": false,
       "value": ""
+      
     },
     "BOT_USARNAME": {
       "description": "Müzik Oynatıcı Bot Kullanıcı İsmi @ olmadan yazınız.",
@@ -44,6 +43,7 @@
       "description": "Her yerde yönetici olarak sayılan kullanıcı kimliklerinin listesi (Müzik hesabınının id'si).",
       "required": true
       "value" : "" 
+      
     },
     "DURATION_LIMIT": {
       "description": "İndirmeler için en fazla ses süresi sınırı (minutes).",
