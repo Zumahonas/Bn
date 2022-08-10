@@ -30,7 +30,7 @@
 
 <h4>🔺 Herokuya Dağıt 🔻</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kocero3452/2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zumahonas/bn)
 
 
 <h4>🔺 Okteto ile Kurulum 🔻</h4> 
